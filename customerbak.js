@@ -1,3 +1,5 @@
+console.log("to push 2nd time esp README.md");
+
 // note: this is just copy of all codes in customer.js
 // the relation to database.js to double check
 
@@ -17,7 +19,6 @@ function get_all_customers() {
     }
   );
 }
-
 
 // function get_customer_by_id(id) {
 //   customer_connection.query(
