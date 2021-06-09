@@ -1,0 +1,44 @@
+git init
+git remote add origin https://github.com/joolim/fintech-backend-demo.git
+git fetch
+git add index.html
+git commit index.html
+git commit -m " added index.js file"
+git commit index.js -m "added index.js"
+git add index.js
+git commit index.js -m"committed index.js
+// npm install --save mysql express body-parser cors ( install once only, then can be reused)
+node --version
+node recap.js ???
+mkdir server  
+npx creat-react-app .  ( also install once, can be reused on this machine)
+npm init
+npm install mysql express
+mkdir client  // this and below 2 are for samplecrud by pedro
+cd client
+cd serve
+npx create-react-app .
+npm start
+git add recap.js
+node database.js
+git add customer.js -m "first commit"
+git commit -m "first commit"
+git push origin main
+git add README.md
+git commit README.md -m "try to commit readme"
+git pull README.md origin master
+git pull origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\cjlim\backend2> git remote add origin https://github.com/joolim/fintech-backend-demo.git
